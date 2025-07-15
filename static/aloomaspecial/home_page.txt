@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Are you a broker or do you own the toilets?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Both, and that's our strength. We operate our own assets in key markets and have an exclusive, high-performance network everywhere else. You get the benefit of a single, accountable provider with true national reach.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">What's your "Triple-Check" sanitation process?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It’s our proprietary system: 1) Mechanical deep clean and pump-out. 2) Chemical sanitation and high-pressure rinse. 3) A final pre-delivery inspection and stocking. We take cleanliness seriously.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Why is your price sometimes different from cheap online quotes?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Because we price for reliability. Our quote includes a clean, quality unit, on-time delivery, and no surprise fees. Lower prices often lead to older units, late deliveries, or surprise fuel surcharges.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">What happens if there is an issue on-site?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You have a direct line to your account manager. No call centers. We solve problems fast.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">Do you offer long-term rental contracts?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we specialize in long-term contracts for construction, industrial, and government clients with preferred pricing and dedicated service schedules.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
